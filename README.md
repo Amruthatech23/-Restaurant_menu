@@ -4,11 +4,12 @@ This is a simple, stylish restaurant **menu card webpage** built using **HTML** 
 
 ##  Project Structure
 
-├── index.html # Main HTML file
-├── style.css # Styles for the page
+* index.html # Main HTML file
+
+*style.css # Styles for the page
 
 ##  Screenshots
-(![Menu Screenshot](./screenshot.png))
+![Menu Screenshot](./screenshot.png)
 
 ##  Features
 
