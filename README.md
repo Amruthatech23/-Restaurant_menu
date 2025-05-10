@@ -6,7 +6,7 @@ This is a simple, stylish restaurant **menu card webpage** built using **HTML** 
 
 * index.html # Main HTML file
 
-*style.css # Styles for the page
+* style.css # Styles for the page
 
 ##  Screenshots
 ![Menu Screenshot](./screenshot.png)
